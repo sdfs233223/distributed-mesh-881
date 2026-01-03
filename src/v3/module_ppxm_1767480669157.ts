@@ -1,0 +1,1 @@
+const util_ppxm = (d: any) => d;
